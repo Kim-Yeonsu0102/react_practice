@@ -1,0 +1,6 @@
+{
+  "eslint.format.enable": true,
+  "prettier.printWidth": 200,
+  "prettier.withNodeModules": true,
+  "prettier.arrowParens": "avoid"
+}
